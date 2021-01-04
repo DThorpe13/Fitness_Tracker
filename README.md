@@ -10,4 +10,4 @@
 ![Homepage](https://github.com/DThorpe13/Fitness_Tracker/blob/master/public/images/home%20page.png)
 
 ## Statspage 
-![statspage]()
+![statspage](https://github.com/DThorpe13/Fitness_Tracker/blob/master/public/images/stats%20page.png)
